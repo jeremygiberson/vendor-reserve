@@ -1,0 +1,11 @@
+{
+    "name": "hotdog/vendor-reserve",
+    "description": "Reserving vendor name Hotdog (childhood nickname)",
+    "authors": [
+        {
+            "name": "Jeremy Giberson",
+            "email": "jeremygiberson@gmail.com"
+        }
+    ],
+    "require": {}
+}
